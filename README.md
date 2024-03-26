@@ -45,6 +45,7 @@ add_executable(my_project ${SOURCES})
 
 # Set C++ standard to C++17
 target_compile_features(my_project PUBLIC cxx_std_17)
+```
 
 ### 4. Build Your Project with Emscripten
 
