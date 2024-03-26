@@ -57,7 +57,6 @@ target_compile_features(my_project PUBLIC cxx_std_17)
 
 - Open a command prompt or terminal window and navigate to your project directory.
 - Activate the latest installed version of Emscripten using the command:
-
 `emsdk activate latest`
 
 
@@ -79,7 +78,7 @@ emcmake cmake ..
 
 
 
-This will compile your C++ code into WebAssembly format using Emscripten.
+This will compile your C++ code into WebAssembly format using Emscripten.  The resulting ``sample3.wasm`` can be found in `build/bin`.
 
 ### Additional Notes
 
