@@ -1,0 +1,3 @@
+D:/StudioProjects/SampleProjects/sample3/build/CMakeFiles/sample3.dir
+D:/StudioProjects/SampleProjects/sample3/build/CMakeFiles/edit_cache.dir
+D:/StudioProjects/SampleProjects/sample3/build/CMakeFiles/rebuild_cache.dir
