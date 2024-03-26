@@ -67,7 +67,8 @@ target_compile_features(my_project PUBLIC cxx_std_17)
 
 
 - Generate the build files using CMake:
-```mkdir build
+```
+mkdir build
 cd build
 emcmake cmake ..
 ```
